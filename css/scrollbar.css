@@ -1,0 +1,22 @@
+/* Styles généraux de la scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  /* Largeur de la scrollbar */
+}
+
+/* Style de la poignée (thumb) de la scrollbar */
+::-webkit-scrollbar-thumb {
+  /* Couleur de la poignée */
+  /*background-color: #0376a1;*/
+  background-color: #d4ecff;
+
+  border-radius: 6px;
+  /* Arrondi de la poignée */
+}
+
+/* Style de la piste (track) de la scrollbar */
+::-webkit-scrollbar-track {
+  background-color: #020230;
+  /* Fond transparent */
+}
+
