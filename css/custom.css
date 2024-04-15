@@ -24,6 +24,10 @@
     border: none;
 }
 
+.JustifyContent{
+    text-align: justify;
+}
+
 /* Style pour un élément spécifique 
 .veille_grid_item:nth-child(odd) {
     background-color: #eee;
