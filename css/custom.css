@@ -37,6 +37,57 @@
     background-size: cover;
 }
 
+#BGProjectGSB {
+    background-image: url("https://stc-mc.freeboxos.fr:65396/share/vfQ29c0sCkn8nC5x/GSB.png");
+    background-size: cover;
+}
+
+#BGProjectToDO {
+    background-image: url("https://stc-mc.freeboxos.fr:65396/share/fUktP86l4Afu7dVo/To%20Do.png ");
+    background-size: cover;
+}
+
+#BGProjectQuizz {
+    background-image: url("https://stc-mc.freeboxos.fr:65396/share/S15ChYxP5WdxLEmX/PythonPJ.png");
+    background-size: cover;
+}
+
+#BGProjectUML {
+    background-image: url("https://stc-mc.freeboxos.fr:65396/share/zzr9WNIdzP81cgGQ/UML.png");
+    background-size: cover;
+}
+
+#BGProjectSite {
+    background-image: url("https://stc-mc.freeboxos.fr:65396/share/4xFR-PSk-XBJl5Tr/Site%20Internet.png");
+    background-size: cover;
+}
+
+#BGProjectSignature {
+    background-image: url("https://stc-mc.freeboxos.fr:65396/share/9Pyjuf6mWSupgHrS/Gn%C3%A9rateur%20signature.png");
+    background-size: cover;
+}
+
+#BGProjectMAJ {
+    background-image: url("https://stc-mc.freeboxos.fr:65396/share/kGOVWjKpDkfeO2fo/shell.png ");
+    background-size: cover;
+}
+
+#BGProjectPrestation {
+    background-image: url("https://stc-mc.freeboxos.fr:65396/share/FeHlLvvkhR2vLGdu/Presta.png");
+    background-size: cover;
+}
+
+#BGProjectResto {
+    background-image: url("https://stc-mc.freeboxos.fr:65396/share/DY8ayPPOvFePirVX/Resto.png ");
+    background-size: cover;
+}
+
+
+
+
+
+
+
 /* Style pour un élément spécifique 
 .veille_grid_item:nth-child(odd) {
     background-color: #eee;
