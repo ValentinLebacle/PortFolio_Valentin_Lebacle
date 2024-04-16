@@ -5,6 +5,7 @@
     grid-template-rows: repeat(3, 1fr);
     /* 3 lignes de hauteur égale */
     gap: 50px;
+    margin-top: 220px;
     /* Espacement entre les éléments de la grille */
 }
 
@@ -32,6 +33,7 @@
     height: 345px;
 }
 
+/* Hébergement Image */
 #BGProjectGnote {
     background-image: url("https://stc-mc.freeboxos.fr:65396/share/t4uKqLVl5HYmYk7z/logoGnote.png");
     background-size: cover;
@@ -94,12 +96,23 @@
 }
 
 
-
-
-
-
-
-
+/*-- Image publique --*/
+#IconVeilleDS {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/023/986/880/original/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png");
+    background-size: cover;
+}
+#IconVeilleX {
+    background-image: url("https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-9581782-7740647.png?f=webp");
+    background-size: cover;
+}
+#IconVeilleYoutube {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png");
+    background-size: cover;
+}
+#IconVeilleReddit {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/023/986/983/original/reddit-logo-reddit-logo-transparent-reddit-icon-transparent-free-free-png.png");
+    background-size: cover;
+}
 
 
 /* Style pour un élément spécifique 
