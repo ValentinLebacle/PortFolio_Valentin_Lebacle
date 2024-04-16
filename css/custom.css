@@ -24,8 +24,17 @@
     border: none;
 }
 
-.JustifyContent{
+.JustifyContent {
     text-align: justify;
+}
+
+.ProjectBox {
+    height: 345px;
+}
+
+#BGProjectGnote {
+    background-image: url("https://stc-mc.freeboxos.fr:65396/share/t4uKqLVl5HYmYk7z/logoGnote.png");
+    background-size: cover;
 }
 
 /* Style pour un élément spécifique 
